@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">🌸 Hi, I'm Sadhna Parmar 🌸</h1>
 
-<!--
-**sadhna-tech/sadhna-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💖 BCA Student | Python Developer | Future Software Engineer 💖
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌷 About Me
+
+🎓 BCA Student
+
+🐍 Learning Python & DSA
+
+💻 Building beginner-friendly projects
+
+🌱 Currently improving every day
+
+✨ Dream: Become a Full Stack Developer
+
+---
+
+## 💕 Tech Stack
+
+🐍 Python
+
+🌐 HTML
+
+🎨 CSS
+
+⚡ JavaScript (Learning)
+
+🗄️ SQL
+
+---
+
+## 🌸 Projects
+
+🎮 Python Guess Game
+
+✂️ Rock Paper Scissors
+
+🏦 Banking System
+
+🎓 Student Management System
+
+💰 Expense Tracker
+
+👨‍💻 Fake Terminal Project
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadhna-tech&show_icons=true&theme=rose_pine)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna-tech&layout=compact&theme=rose_pine)
+
+---
+
+🌸 Thanks for visiting my profile 🌸
