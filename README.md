@@ -98,15 +98,27 @@ Automatic Sudoku solver using Backtracking.
 ## GitHub
 
 <table>
+
 <tr>
-<td><b>Repositories</b></td>
-<td>49</td>
+<td><b>Projects</b></td>
+<td>49+ Public Repositories</td>
 </tr>
 
 <tr>
-<td><b>Focus</b></td>
-<td>Python • Backend • Automation</td>
+<td><b>Main Stack</b></td>
+<td>Python • HTML • CSS • JavaScript • SQL</td>
 </tr>
+
+<tr>
+<td><b>Currently Exploring</b></td>
+<td>Backend Development</td>
+</tr>
+
+<tr>
+<td><b>Building</b></td>
+<td>Automation Tools & Practical Applications</td>
+</tr>
+
 </table>
 
 ## Connect
