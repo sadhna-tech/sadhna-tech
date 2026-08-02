@@ -97,10 +97,27 @@ Automatic Sudoku solver using Backtracking.
 ---
 ## GitHub
 
-Focused on building practical Python projects with an interest in backend development, automation, and problem solving.
+<table>
+<tr>
+<td><b>Repositories</b></td>
+<td>49</td>
+</tr>
 
-Current repositories include utilities, games, data analysis tools, and desktop applications.
+<tr>
+<td><b>Followers</b></td>
+<td>0</td>
+</tr>
 
+<tr>
+<td><b>Following</b></td>
+<td>1</td>
+</tr>
+
+<tr>
+<td><b>Focus</b></td>
+<td>Python • Backend • Automation</td>
+</tr>
+</table>
 
 ## Connect
 
