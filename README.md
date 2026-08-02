@@ -95,13 +95,12 @@ Automatic Sudoku solver using Backtracking.
 </p>
 
 ---
+## GitHub
 
+Focused on building practical Python projects with an interest in backend development, automation, and problem solving.
 
-## GitHub Activity
+Current repositories include utilities, games, data analysis tools, and desktop applications.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadhna-tech&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## Connect
 
