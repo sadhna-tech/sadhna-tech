@@ -98,20 +98,10 @@ Automatic Sudoku solver using Backtracking.
 
 ## GitHub Statistics
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sadhna-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhna-tech&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sadhna-tech&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## Connect
 
