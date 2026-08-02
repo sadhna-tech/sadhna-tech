@@ -1,72 +1,125 @@
+<div align="center">
+
+# SADHNA PARMAR
+
+### Python Developer • BCA Student • Backend Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Practical+Software;Learning+Backend+Development;Python+%7C+Automation+%7C+DSA" />
+
+</div>
+
+---
+
+## About
+
+I'm a BCA student passionate about building practical software with Python.
+
+Currently focusing on backend development, automation, data structures, and problem solving while continuously improving through real-world projects.
+
+---
+
+## Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Bulk Email Validator
+
+Validate thousands of email addresses using Regular Expressions.
+
+</td>
+
+<td width="50%">
+
+### Directory Size Analyzer
+
+Analyze folder sizes and identify large files.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Personal Finance Dashboard
+
+Track income, expenses and generate reports.
+
+</td>
+
+<td>
+
+### Voice Assistant
+
+Voice-controlled assistant built using Python.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Movie Recommendation System
+
+Recommend movies based on user preferences.
+
+</td>
+
+<td>
+
+### Sudoku Solver
+
+Automatic Sudoku solver using Backtracking.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadhna-tech/sadhna-tech/main/BANNER.png.png" width="100%">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sadhna-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhna-tech&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&pause=1000&color=FF69B4&center=true&width=700&lines=Hi+I'm+Sadhna;BCA+Student+🎓;Python+Developer+🐍;Future+Software+Engineer+💖">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
-
-
-<h1 align="center">🌸 Hi, I'm Sadhna Parmar 🌸</h1>
+## Connect
 
 <p align="center">
-💖 BCA Student | Python Developer | Future Software Engineer 💖
+
+<a href="https://linkedin.com/in/sadhna-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
-
----
-
-## 🌷 About Me
-
-🎓 BCA Student
-
-🐍 Learning Python & DSA
-
-💻 Building beginner-friendly projects
-
-🌱 Currently improving every day
-
-✨ Dream: Become a Full Stack Developer
-
----
-
-## 💕 Tech Stack
-
-🐍 Python
-
-🌐 HTML
-
-🎨 CSS
-
-⚡ JavaScript (Learning)
-
-🗄️ SQL
-
----
-
-## 🌸 Projects
-
-🎮 Python Guess Game
-
-✂️ Rock Paper Scissors
-
-🏦 Banking System
-
-🎓 Student Management System
-
-💰 Expense Tracker
-
-👨‍💻 Fake Terminal Project
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadhna-tech&show_icons=true&theme=rose_pine)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhna-tech&layout=compact&theme=rose_pine)
-
----
-
-🌸 Thanks for visiting my profile 🌸
