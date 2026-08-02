@@ -96,8 +96,8 @@ Automatic Sudoku solver using Backtracking.
 
 ---
 
-## GitHub Statistics
 
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sadhna-tech&theme=tokyonight&hide_border=true"/>
