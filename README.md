@@ -104,16 +104,6 @@ Automatic Sudoku solver using Backtracking.
 </tr>
 
 <tr>
-<td><b>Followers</b></td>
-<td>0</td>
-</tr>
-
-<tr>
-<td><b>Following</b></td>
-<td>1</td>
-</tr>
-
-<tr>
 <td><b>Focus</b></td>
 <td>Python • Backend • Automation</td>
 </tr>
